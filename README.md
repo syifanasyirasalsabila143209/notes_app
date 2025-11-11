@@ -2,13 +2,12 @@
 
 ## 👥 Anggota Kelompok
 
-1. Nama Siswa 1
-2. Nama Siswa 2
+1. Syifa Nasyira Salsabila
+   2.KelvinAlfattama
 
 ## 📝 Deskripsi
 
-A simple notes app built with Flutter. You can add, edit, and delete notes.  
-State management is handled using Provider and BLoC.
+Aplikasi catatan sederhana berbasis Flutter yang bisa menambah, menampilkan, dan menghapus catatan.
 
 ## ⚙️ Teknologi
 
@@ -29,5 +28,5 @@ State management is handled using Provider and BLoC.
 1. Jalankan perintah di terminal:
    ```bash
    flutter pub get
-   flutter run
+   flutter run -d chrome
    ```
